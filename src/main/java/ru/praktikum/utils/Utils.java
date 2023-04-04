@@ -1,4 +1,4 @@
-package ru.praktikum;
+package ru.praktikum.utils;
 
 import java.util.Random;
 
